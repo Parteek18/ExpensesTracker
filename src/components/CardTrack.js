@@ -27,7 +27,7 @@ const CardTrack = (props) => {
       <Card className={classes.track} variant="outlined">
         <CardHeader title={props.title} subheader="Powered by Speechly"/>
         <CardContent>
-          <Typography align="center">Total Expense = RS 100000</Typography>
+          <Typography align="center">Welcome</Typography>
         </CardContent>
         <Divider />
         <Form />
