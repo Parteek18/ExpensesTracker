@@ -62,7 +62,7 @@ const Form = () => {
       }
 
       segment.entities.forEach((e) => {
-        const category = `${e.value.charAt(0)}${e.value
+        const category = `Rs{e.value.charAt(0)}Rs{e.value
           .slice(1)
           .toLowerCase()}`;
 
